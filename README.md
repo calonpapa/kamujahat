@@ -1,4 +1,4 @@
-# Korupthor
+# README.COK
 <h1>  K<br>
   <h1>  A<br>
     <h1>  M<br>
